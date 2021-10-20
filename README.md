@@ -5,11 +5,11 @@
 </ul>
 
 ## Socials!
-<a href="https://steamcommunity.com/profiles/76561198985255524/">
-  <img align="left" alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
+<a href="https://steamcommunity.com/profiles/76561198985255524">
+  <img align="left" alt="Steam" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198985255524/">
-  <img align="left" alt="Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
+<a href="https://discord.com/invite/c5nCHfp">
+  <img align="left" alt="Discord" width="27px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />
 </a>
 <br>
 
