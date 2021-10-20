@@ -1,3 +1,8 @@
+<ul>
+  <li>Programming Languages: JS, Python, lua, SourcePawn, arduino, HTML, css</li>
+  <li>Currently learning Microsoft Visual Basic and C++</li>
+</ul>
+
 <a href="https://github.com/DEV-MICO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DEV-MICO&show_icons=true&theme=github_dark" />
 </a>
