@@ -5,12 +5,10 @@
 </ul>
 
 ## Socials
-<p dir="auto"><a href="https://discord.gg/c5nCHfp" rel="nofollow"><img src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" alt="" data-canonical-src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" style="max-width: 100%;"></a></p>
-<a href="https://steamcommunity.com/profiles/76561198985255524">
-  <img align="center" alt="Steam" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
+<a href="https://discord.gg/c5nCHfp" rel="nofollow"><img src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" alt="" data-canonical-src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" style="max-width: 100%;">
 </a>
-<a href="https://discord.com/invite/c5nCHfp">
-  <img align="center" alt="Discord" width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
+<a href="https://steamcommunity.com/profiles/76561198985255524">
+  <img align="center" alt="Steam" width="25px" src="https://www.steamsignature.com/profile/default/76561198985255524.png" />
 </a>
 <br>
 
