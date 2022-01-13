@@ -5,10 +5,11 @@
 </ul>
 
 ## Socials
-<a href="https://discord.gg/c5nCHfp" rel="nofollow"><img src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" alt="" data-canonical-src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" style="max-width: 100%;">
+<a href="https://discord.gg/c5nCHfp" rel="nofollow">
+  <img src="https://discord.c99.nl/widget/theme-4/391706038698508299.png" style="max-width: 100%;">
 </a>
-<a href="https://steamcommunity.com/profiles/76561198985255524">
-  <img align="center" alt="Steam" width="25px" src="https://www.steamsignature.com/profile/default/76561198985255524.png" />
+<a href="https://steamcommunity.com/profiles/76561198985255524" rel="nofollow">
+  <img src="https://steam.mmosvc.com/76561198985255524/v1.png" style="max-width: 100%;">
 </a>
 <br>
 
