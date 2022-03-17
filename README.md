@@ -1,7 +1,6 @@
 ## Hey, I'm \</MICO\>!
 <ul>
-  <li>Programming Languages: JS, Python, lua, SourcePawn, arduino, HTML, css</li>
-  <li>Currently learning Microsoft Visual Basic</li>
+  <li>Programming Languages: JS, TS, Python, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic</li>
 </ul>
 
 ## Socials
