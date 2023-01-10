@@ -1,6 +1,6 @@
-## Hey, I'm \</MICO\>!
+## Hey, I'm Miguel!
 <ul>
-  <li>Programming Languages: JS, TS, Python, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic</li>
+  <li>Programming Languages: Java, JS, TS, Python, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic</li>
 </ul>
 
 ## Socials
