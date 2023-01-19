@@ -13,9 +13,9 @@
 <br>
 
 ## GitHub Stats
-<a href="https://github.com/DEV-MICO">
+<a href="https://github.com/miguelcollaco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelcollaco&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/DEV-MICO">
+<a href="https://github.com/miguelcollaco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco&theme=github_dark" />
 </a>
