@@ -1,6 +1,6 @@
 ## Hey, I'm Miguel!
 <ul>
-  <li>Programming Languages: Java, JS, TS, Python, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic</li>
+  <li>Tech Stack: Java, JS, TS, Python, C, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic, etc.</li>
 </ul>
 
 ## GitHub Stats
