@@ -3,6 +3,11 @@
   <li>Tech Stack: Java, JS, TS, Python, C, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic, etc.</li>
 </ul>
 
+## Find me at
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelcollaco/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.collaco@campus.fct.unl.pt)
+
 ## Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelcollaco/miguelcollaco/3c8b22946c04cffcfd86a890937383067ddd8bdf/github-contribution-grid-snake-dark.svg" />
