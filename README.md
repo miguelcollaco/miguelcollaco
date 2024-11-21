@@ -13,9 +13,13 @@
 </picture>
 
 ## GitHub Stats
-<a href="https://github.com/miguelcollaco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelcollaco&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/miguelcollaco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco&theme=github_dark" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=miguelcollaco&show_icons=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=miguelcollaco&show_icons=true" />
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=miguelcollaco&show_icons=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco" />
+  <img alt="github-stats-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco" />
+</picture>
