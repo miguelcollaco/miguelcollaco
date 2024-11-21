@@ -19,5 +19,3 @@
 <a href="https://github.com/miguelcollaco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcollaco&theme=github_dark" />
 </a>
-[1]: https://www.fct.unl.pt/
-[2]: https://innova.pt/
