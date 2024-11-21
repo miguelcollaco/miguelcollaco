@@ -1,6 +1,6 @@
 ## Hey, I'm Miguel!
-- Computer Science and Engeneering @ [NOVA School of Sciente and Technology](https://www.fct.unl.pt/)
-- Developer and PM @ [In-Nova](https://innova.pt/)
+- Computer Science and Engeneering @ [NOVA School of Sciente and Technology](https://www.fct.unl.pt/){:target="_blank"}
+- Developer and PM @ [In-Nova](https://innova.pt/){:target="_blank"}
 - Tech Stack: Java, JS, TS, Python, C, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic, etc.</li>
 
 ## Contributions
