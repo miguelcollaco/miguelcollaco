@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelcollaco/miguelcollaco/3c8b22946c04cffcfd86a890937383067ddd8bdf/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelcollaco/miguelcollaco/3c8b22946c04cffcfd86a890937383067ddd8bdf/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/miguelcollaco/miguelcollaco/3c8b22946c04cffcfd86a890937383067ddd8bdf/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/miguelcollaco/miguelcollaco/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ## GitHub Stats
