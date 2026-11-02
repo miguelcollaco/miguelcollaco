@@ -1,8 +1,8 @@
 ## Hey, I'm Miguel!
 <ul>
-  <li>MSc Computer Science and Engineering @ <a href="https://www.fct.unl.pt/" target="_blank">NOVA School of Sciente and Technology</a></li>
+  <li>MSc Computer Science and Engineering @ <a href="https://www.fct.unl.pt/" target="_blank">NOVA School of Science and Technology</a></li>
   <li>Chief Financial Officer @ <a href="https://innova.pt/" target="_blank">In-Nova</a></li>
-  <li>Tech Stack: Java, JS, TS, Python, C, lua, SourcePawn, arduino, HTML, CSS, Microsoft Visual Basic, etc.</li>
+  <li>Tech Stack: Java, TypeScript, JavaScript, Python, C, Lua, SQL, React, Next.js, React Native, Vue.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Docker</li>
 </ul>
 
 ## Contributions
