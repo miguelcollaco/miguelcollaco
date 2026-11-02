@@ -1,6 +1,6 @@
 # Hi, I'm Miguel
 
-MSc student in Computer Science and Engineering at [NOVA School of Science and Technology](https://www.fct.unl.pt/) in Lisbon. I build web and mobile products and LLM agent tooling.
+MSc student in Computer Science and Engineering at [NOVA School of Science and Technology](https://www.fct.unl.pt/) in Lisbon.
 
 [miguelcollaco.com](https://miguelcollaco.com) · [LinkedIn](https://linkedin.com/in/miguelcollaco)
 
