@@ -1,9 +1,23 @@
-## Hey, I'm Miguel!
-<ul>
-  <li>MSc Computer Science and Engineering @ <a href="https://www.fct.unl.pt/" target="_blank">NOVA School of Science and Technology</a></li>
-  <li>Chief Financial Officer @ <a href="https://innova.pt/" target="_blank">In-Nova</a></li>
-  <li>Tech Stack: Java, TypeScript, JavaScript, Python, C, Lua, SQL, React, Next.js, React Native, Vue.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Docker</li>
-</ul>
+# Hi, I'm Miguel
+
+MSc student in Computer Science and Engineering at [NOVA School of Science and Technology](https://www.fct.unl.pt/) in Lisbon. I build web and mobile products and LLM agent tooling.
+
+[miguelcollaco.com](https://miguelcollaco.com) · [LinkedIn](https://linkedin.com/in/miguelcollaco)
+
+## Now
+
+- **MSc thesis:** Automated Inference of Likely Invariants and TLA+ Specifications for RESTful APIs
+- **CFO at [In-Nova](https://innova.pt/):** a student-run tech consultancy, where I previously led the 30-person Projects Department
+
+## Recent work
+
+- **Sky:** built multi-agent LLM tooling and an automated PS4 crash investigation pipeline
+- **Clearis:** built a procurement platform's Vue.js interfaces and Node.js back-end logic, and optimized its MongoDB queries
+- **[Watch Party for Stremio](https://github.com/miguelcollaco/watch-party-for-stremio):** a browser extension for watching together, with synced playback, chat and voice, peer-to-peer with no server or account
+
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,lua,react,nextjs,vue,nodejs,spring,postgres,mongodb,docker,git&perline=15" alt="Java, TypeScript, JavaScript, Python, C, Lua, React, Next.js, Vue.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Docker, Git" />
 
 ## Contributions
 <picture>
