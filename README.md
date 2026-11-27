@@ -11,13 +11,14 @@ MSc student in Computer Science and Engineering at [NOVA School of Science and T
 
 ## Recent work
 
+- **[Uptime Monitor](https://github.com/miguelcollaco/uptime-monitor)** ([live](https://uptime.miguelcollaco.com)): a multi-region uptime monitor that runs entirely on Cloudflare's free tier, built on Workers, Durable Objects and D1
 - **Sky:** built multi-agent LLM tooling and an automated PS4 crash investigation pipeline
 - **Clearis:** built a procurement platform's Vue.js interfaces and Node.js back-end logic, and optimized its MongoDB queries
 - **[Watch Party for Stremio](https://github.com/miguelcollaco/watch-party-for-stremio):** a browser extension for watching together, with synced playback, chat and voice, peer-to-peer with no server or account
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,lua,react,nextjs,vue,nodejs,spring,postgres,mongodb,docker,git&perline=15" alt="Java, TypeScript, JavaScript, Python, C, Lua, React, Next.js, Vue.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Docker, Git" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,rust,go,lua,react,nextjs,vue,nodejs,spring,postgres,mongodb,docker,cloudflare,workers,git&perline=10" alt="Java, TypeScript, JavaScript, Python, C, Rust, Go, Lua, React, Next.js, Vue.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Docker, Cloudflare, Cloudflare Workers, Git" />
 
 ## Contributions
 <picture>
